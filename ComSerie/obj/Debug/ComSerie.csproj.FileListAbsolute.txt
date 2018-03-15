@@ -1,0 +1,20 @@
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\ComSerie\ComSerie\bin\Debug\ComSerie.exe.config
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\ComSerie\ComSerie\bin\Debug\ComSerie.exe
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\ComSerie\ComSerie\bin\Debug\ComSerie.pdb
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\ComSerie\ComSerie\obj\Debug\ComSerie.csprojResolveAssemblyReference.cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\ComSerie\ComSerie\obj\Debug\ComSerie.Form1.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\ComSerie\ComSerie\obj\Debug\ComSerie.Properties.Resources.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\ComSerie\ComSerie\obj\Debug\ComSerie.csproj.GenerateResource.Cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\ComSerie\ComSerie\obj\Debug\ComSerie.csproj.CoreCompileInputs.cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\ComSerie\ComSerie\obj\Debug\ComSerie.exe
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\ComSerie\ComSerie\obj\Debug\ComSerie.pdb
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\NINDJEU GUYSSEL & MUSONI ALAIN EROS\ComSerie(C#)\ComSerie\bin\Debug\ComSerie.exe.config
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\NINDJEU GUYSSEL & MUSONI ALAIN EROS\ComSerie(C#)\ComSerie\bin\Debug\ComSerie.exe
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\NINDJEU GUYSSEL & MUSONI ALAIN EROS\ComSerie(C#)\ComSerie\bin\Debug\ComSerie.pdb
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\NINDJEU GUYSSEL & MUSONI ALAIN EROS\ComSerie(C#)\ComSerie\obj\Debug\ComSerie.csprojResolveAssemblyReference.cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\NINDJEU GUYSSEL & MUSONI ALAIN EROS\ComSerie(C#)\ComSerie\obj\Debug\ComSerie.Form1.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\NINDJEU GUYSSEL & MUSONI ALAIN EROS\ComSerie(C#)\ComSerie\obj\Debug\ComSerie.Properties.Resources.resources
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\NINDJEU GUYSSEL & MUSONI ALAIN EROS\ComSerie(C#)\ComSerie\obj\Debug\ComSerie.csproj.GenerateResource.Cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\NINDJEU GUYSSEL & MUSONI ALAIN EROS\ComSerie(C#)\ComSerie\obj\Debug\ComSerie.csproj.CoreCompileInputs.cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\NINDJEU GUYSSEL & MUSONI ALAIN EROS\ComSerie(C#)\ComSerie\obj\Debug\ComSerie.exe
+D:\Nouveau doc 2eme IS\Quadrimestre II\Acq & trans deDonnéées2(Mr Hedia)\Projets\NINDJEU GUYSSEL & MUSONI ALAIN EROS\ComSerie(C#)\ComSerie\obj\Debug\ComSerie.pdb
